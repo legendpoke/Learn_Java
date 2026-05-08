@@ -2,6 +2,10 @@
 
 A beginner-friendly Java practice repository covering core language concepts through small, focused examples. Each file demonstrates one topic, so it can be used as a quick reference while learning Java.
 
+## Author
+
+**Dhruv** - Java learning journey documented through practical code examples.
+
 ## Project Structure
 
 ```text
@@ -176,10 +180,6 @@ java PackagesExample
 - Most examples are intentionally small and focused on one concept.
 - Comments in the code explain what each example is doing.
 - The `tools/` folder is required for the package example.
-
-## Author
-
-**Dhruv** - Java learning journey documented through practical code examples.
 
 ## License
 

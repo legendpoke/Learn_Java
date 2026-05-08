@@ -1,0 +1,23 @@
+# Compiled Java class files
+*.class
+
+# Java archives and packages
+*.jar
+*.war
+*.ear
+
+# Build output folders
+bin/
+build/
+out/
+target/
+
+# IDE and local system files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+Thumbs.db
+Desktop.ini

@@ -9,76 +9,76 @@ A beginner-friendly Java practice repository covering core language concepts thr
 ## Project Structure
 
 ```text
-.
-|-- HelloWorld.java                  # Hello World and simple addition
-|-- VotingEligibility.java           # Basic if-else condition
-|-- GreatestOfThreeNumbers.java      # Find the greatest of three numbers
-|-- ForLoopExample.java              # Nested for loops
-|-- WhileLoopFactorial.java          # Factorial using a while loop
-|-- DoWhileLoop.java                 # do-while loop example
-|-- user_input.java                  # Scanner input
-|-- array.java                       # Array basics
-|-- all_array_values.java            # Printing array values
-|-- array_obj.java                   # Array of objects
-|-- multi_array.java                 # 2D array
-|-- jagged_array.java                # Jagged array
-|-- three_d_array.java               # 3D array
-|-- ClassObjectExample.java          # Class and object basics
-|-- GradeSystem.java                 # Grade system practice
-|-- MethodReturnExample.java         # void methods and return values
-|-- InstanceVariableExample.java     # Instance variables
-|-- constructors.java                # Constructors
-|-- encapsulation.java               # Getters and setters
-|-- inheritance.java                 # Inheritance example
-|-- Calculator.java                  # Base calculator class
-|-- AdvancedCalculator.java          # Calculator inheritance example
-|-- VeryAdvancedCalculator.java      # Advanced calculator with power()
-|-- polymorphism.java                # Polymorphism notes
-|-- MethodOverriding.java            # Method overriding
-|-- DynamicMethodDispatch.java       # Runtime method dispatch
-|-- AbstractKeyword.java             # Abstract class and abstract method
-|-- AbstractAnonymousClass.java      # Anonymous class with abstract class
-|-- InterfaceMethods.java            # Interface variables and multiple interfaces
-|-- NeedOfInterface.java             # Why interfaces are useful
-|-- TypesOfInterfaces.java           # Normal, functional, and marker interfaces
-|-- FunctionalInterfaceExample.java  # Functional interface example
-|-- LambdaExpression.java            # Lambda basics
-|-- MoreLambdaMethods.java           # Lambda with return value
-|-- for_each.java                    # forEach and Consumer
-|-- InnerClassExample.java           # Inner and static nested classes
-|-- AnonymousClassExample.java       # Anonymous class example
-|-- ObjectClassMethods.java          # toString() and equals()
-|-- ThisKeyword.java                 # this keyword
-|-- ThisSuperExample.java            # this() and super()
-|-- StaticKeyword.java               # static variables and methods
-|-- FinalKeyword.java                # final keyword
-|-- AccessModifier.java              # Access modifiers
-|-- StringExample.java               # String and StringBuffer
-|-- TypeCasting.java                 # Upcasting and downcasting
-|-- JAVA.docx                        # Additional Java notes
-|-- enumeration.java                 # enum basics
-|-- enum_class.java                  # enum constructors and methods
-|-- OverrideAnnotationExample.java   # @Override annotation
-|-- exceptions.java                  # try-catch examples
-|-- exception_hierarchy.java         # Exception hierarchy notes
-|-- ThrowKeyword.java                # throw keyword
-|-- ThrowsKeyword.java               # throws keyword
-|-- custom_exception.java            # Custom exception
-|-- try_with.java                    # try-with-resources and finally
-|-- collection_api.java              # HashSet and TreeSet
-|-- map.java                         # HashMap example
-|-- sorting.java                     # Comparator and Collections.sort()
-|-- stream_api.java                  # Stream filter, map, and reduce
-|-- threads.java                     # Thread and Runnable examples
-|-- threads_safe.java                # synchronized and join()
-|-- thread_states.java               # Thread states reference
-|-- dynamic_array.java               # Dynamic array example
-|-- random_values.java               # Random values in a 2D array
-|-- naming_conv.java                 # Java naming conventions
-|-- PackagesExample.java             # Package import example
-`-- tools/
-    |-- PackageOne.java              # Class inside tools package
-    `-- PackageTwo.java              # Class inside tools package
+Core Java
+    |-- HelloWorld.java                  # Hello World and simple addition
+    |-- VotingEligibility.java           # Basic if-else condition
+    |-- GreatestOfThreeNumbers.java      # Find the greatest of three numbers
+    |-- ForLoopExample.java              # Nested for loops
+    |-- WhileLoopFactorial.java          # Factorial using a while loop
+    |-- DoWhileLoop.java                 # do-while loop example
+    |-- user_input.java                  # Scanner input
+    |-- array.java                       # Array basics
+    |-- all_array_values.java            # Printing array values
+    |-- array_obj.java                   # Array of objects
+    |-- multi_array.java                 # 2D array
+    |-- jagged_array.java                # Jagged array
+    |-- three_d_array.java               # 3D array
+    |-- ClassObjectExample.java          # Class and object basics
+    |-- GradeSystem.java                 # Grade system practice
+    |-- MethodReturnExample.java         # void methods and return values
+    |-- InstanceVariableExample.java     # Instance variables
+    |-- constructors.java                # Constructors
+    |-- encapsulation.java               # Getters and setters
+    |-- inheritance.java                 # Inheritance example
+    |-- Calculator.java                  # Base calculator class
+    |-- AdvancedCalculator.java          # Calculator inheritance example
+    |-- VeryAdvancedCalculator.java      # Advanced calculator with power()
+    |-- polymorphism.java                # Polymorphism notes
+    |-- MethodOverriding.java            # Method overriding
+    |-- DynamicMethodDispatch.java       # Runtime method dispatch
+    |-- AbstractKeyword.java             # Abstract class and abstract method
+    |-- AbstractAnonymousClass.java      # Anonymous class with abstract class
+    |-- InterfaceMethods.java            # Interface variables and multiple interfaces
+    |-- NeedOfInterface.java             # Why interfaces are useful
+    |-- TypesOfInterfaces.java           # Normal, functional, and marker interfaces
+    |-- FunctionalInterfaceExample.java  # Functional interface example
+    |-- LambdaExpression.java            # Lambda basics
+    |-- MoreLambdaMethods.java           # Lambda with return value
+    |-- for_each.java                    # forEach and Consumer
+    |-- InnerClassExample.java           # Inner and static nested classes
+    |-- AnonymousClassExample.java       # Anonymous class example
+    |-- ObjectClassMethods.java          # toString() and equals()
+    |-- ThisKeyword.java                 # this keyword
+    |-- ThisSuperExample.java            # this() and super()
+    |-- StaticKeyword.java               # static variables and methods
+    |-- FinalKeyword.java                # final keyword
+    |-- AccessModifier.java              # Access modifiers
+    |-- StringExample.java               # String and StringBuffer
+    |-- TypeCasting.java                 # Upcasting and downcasting
+    |-- JAVA.docx                        # Additional Java notes
+    |-- enumeration.java                 # enum basics
+    |-- enum_class.java                  # enum constructors and methods
+    |-- OverrideAnnotationExample.java   # @Override annotation
+    |-- exceptions.java                  # try-catch examples
+    |-- exception_hierarchy.java         # Exception hierarchy notes
+    |-- ThrowKeyword.java                # throw keyword
+    |-- ThrowsKeyword.java               # throws keyword
+    |-- custom_exception.java            # Custom exception
+    |-- try_with.java                    # try-with-resources and finally
+    |-- collection_api.java              # HashSet and TreeSet
+    |-- map.java                         # HashMap example
+    |-- sorting.java                     # Comparator and Collections.sort()
+    |-- stream_api.java                  # Stream filter, map, and reduce
+    |-- threads.java                     # Thread and Runnable examples
+    |-- threads_safe.java                # synchronized and join()
+    |-- thread_states.java               # Thread states reference
+    |-- dynamic_array.java               # Dynamic array example
+    |-- random_values.java               # Random values in a 2D array
+    |-- naming_conv.java                 # Java naming conventions
+    |-- PackagesExample.java             # Package import example
+    `-- tools/
+        |-- PackageOne.java              # Class inside tools package
+        `-- PackageTwo.java              # Class inside tools package
 ```
 
 ## Java Terms & Keywords Reference

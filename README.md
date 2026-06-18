@@ -4,7 +4,7 @@ A beginner-friendly Java practice repository covering core language concepts thr
 
 ## Author
 
-**Dhruv** - A Java learning journey documented through practical code examples.
+**LegendPoke** - A Java learning journey documented through practical code examples.
 
 ## Project Structure
 
